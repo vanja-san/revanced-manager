@@ -1,0 +1,159 @@
+{
+    "okButton": "OK",
+    "cancelButton": "Отмена",
+    "enabledLabel": "Включен",
+    "disabledLabel": "Отключен",
+    "yesButton": "Да",
+    "noButton": "Нет",
+    "navigationView": {
+        "dashboardTab": "Управление",
+        "patcherTab": "Патчер",
+        "settingsTab": "Настройки"
+    },
+    "homeView": {
+        "widgetTitle": "Управление",
+        "updatesSubtitle": "Обновления",
+        "patchedSubtitle": "Приложения с патчами",
+        "updatesAvailable": "Доступные обновления",
+        "noUpdates": "Нет доступных обновлений",
+        "noInstallations": "Нет установленных приложений с патчами",
+        "installed": "Установлено",
+        "updateDialogTitle": "Менеджер обновлений",
+        "updateDialogText": "Скачать и обновить ReVanced Manager?",
+        "notificationTitle": "ReVanced Manager был обновлён",
+        "notificationText": "Нажмите, чтобы открыть приложение",
+        "downloadingMessage": "Скачивание обновления...",
+        "installingMessage": "Установка обновления...",
+        "errorDownloadMessage": "Невозможно скачать обновление",
+        "errorInstallMessage": "Невозможно установить обновление",
+        "noConnection": "Отсутствует подключение к интернету"
+    },
+    "applicationItem": {
+        "patchButton": "Применить патч",
+        "infoButton": "Информация",
+        "changelogLabel": "Список изменений"
+    },
+    "latestCommitCard": {
+        "loadingLabel": "Загрузка...",
+        "timeagoLabel": "{time} назад",
+        "patcherLabel": "Патчер: ",
+        "managerLabel": "Менеджер: ",
+        "updateButton": "Менеджер обновлений"
+    },
+    "patcherView": {
+        "widgetTitle": "Патчер",
+        "patchButton": "Применить патч",
+        "patchDialogTitle": "Предупреждение",
+        "patchDialogText": "Вы выбрали ресурсный патч, и была обнаружена установка APK через Split, поэтому могут возникнуть ошибки патча.\nВсё равно продолжить применения патча к базовому APK из Split?"
+    },
+    "appSelectorCard": {
+        "widgetTitle": "Выберите приложение",
+        "widgetTitleSelected": "Выбранное приложение",
+        "widgetSubtitle": "Приложение не выбрано",
+        "noAppsLabel": "Приложений не найдено.",
+        "currentVersion": "Текущая",
+        "recommendedVersion": "Рекомендуемая",
+        "anyVersion": "Любая"
+    },
+    "patchSelectorCard": {
+        "widgetTitle": "Выберите патчи",
+        "widgetTitleSelected": "Выбранные патчи",
+        "widgetSubtitle": "Сначала выберите приложение",
+        "widgetEmptySubtitle": "Патчи не выбраны"
+    },
+    "socialMediaCard": {
+        "widgetTitle": "Соцсети",
+        "widgetSubtitle": "Мы в сети!"
+    },
+    "appSelectorView": {
+        "viewTitle": "Выберите приложение",
+        "searchBarHint": "Поиск приложений",
+        "storageButton": "Хранилище",
+        "errorMessage": "Невозможно использовать выбранное приложение."
+    },
+    "patchesSelectorView": {
+        "viewTitle": "Выберите патчи",
+        "searchBarHint": "Поиск патчей",
+        "doneButton": "Готово",
+        "noPatchesFound": "Не найдено патчей для выбранного приложения"
+    },
+    "patchItem": {
+        "unsupportedWarningButton": "Неподдерживаемая версия",
+        "unsupportedDialogTitle": "Предупреждение",
+        "unsupportedDialogText": "Выбор этого патча может привести к ошибкам при установке патча.\n\nВерсия приложения: {packageVersion}\nТекущие поддерживаемые версии:\n{supportedVersions}"
+    },
+    "installerView": {
+        "widgetTitle": "Установщик",
+        "installButton": "Установить",
+        "installRootButton": "Установить с рут",
+        "openButton": "Открыть",
+        "shareButton": "Поделиться файлом",
+        "notificationTitle": "ReVanced Manager применил патч",
+        "notificationText": "Нажмите, чтобы вернуться в установщик",
+        "shareApkMenuOption": "Поделиться APK",
+        "shareLogMenuOption": "Поделиться логами",
+        "installErrorDialogTitle": "Ошибка",
+        "installErrorDialogText1": "Установка с рутом невозможна при текущем выборе патчей.\nЗаново примените патч к приложению или выберите установку без рута.",
+        "installErrorDialogText2": "Установка без рута невозможна при текущем выборе патчей.\nЗаново примените патч к приложению или выберите установку с рут, если ваше устройство рутировано.",
+        "installErrorDialogText3": "Установка с рутом невозможна, так как оригинальный APK был выбран из хранилища.\nВыберите установленное приложение или выберите установку без рута.",
+        "noExit": "Установщик ещё запущен..."
+    },
+    "settingsView": {
+        "widgetTitle": "Настройки",
+        "appearanceSectionTitle": "Внешний вид",
+        "teamSectionTitle": "Команда",
+        "infoSectionTitle": "Информация",
+        "advancedSectionTitle": "Дополнительно",
+        "darkThemeLabel": "Тёмный режим",
+        "darkThemeHint": "Добро пожаловать на Тёмную сторону",
+        "dynamicThemeLabel": "Material You",
+        "dynamicThemeHint": "Наслаждайтесь опытом, близким к вашему устройству",
+        "languageLabel": "Язык",
+        "englishOption": "English",
+        "frenchOption": "French",
+        "sourcesLabel": "Источники",
+        "sourcesLabelHint": "Настройте свои пользовательские источники",
+        "orgPatchesLabel" : "Организация патчей",
+        "sourcesPatchesLabel" : "Источник патчей",
+        "orgIntegrationsLabel": "Организация интеграций",
+        "sourcesIntegrationsLabel": "Источник интеграций",
+        "sourcesResetDialogTitle": "Сброс",
+        "sourcesResetDialogText": "Вы уверены, что хотите сбросить пользовательские источники до значений по умолчанию?",
+        "apiURLResetDialogText": "Вы уверены, что хотите сбросить URL API до значения по умолчанию?",
+        "contributorsLabel": "Внесли вклад",
+        "contributorsHint": "Список участников ReVanced",
+        "logsLabel": "Логи",
+        "logsHint": "Поделиться отладочными логами устройства",
+        "apiURLLabel": "API URL",
+        "apiURLHint": "Настройте свой пользовательский URL API",
+        "selectApiURL": "Выберите URL",
+        "aboutLabel": "О приложении",
+        "snackbarMessage": "Скопировано в буфер обмена"
+    },
+    "appInfoView": {
+        "widgetTitle": "Информация о приложении",
+        "openButton": "Открыть",
+        "uninstallButton": "Удалить",
+        "patchButton": "Патч",
+        "unpatchButton": "Удалить патчи",
+        "unpatchDialogText": "Точно удалить патчи у этого приложения?",
+        "rootDialogTitle": "Ошибка",
+        "rootDialogText": "Приложение было установлено с включенным режимом root, но в настоящее время режим root отключен.\nСначала включите режим root.",
+        "packageNameLabel": "Название пакета",
+        "installTypeLabel": "Тип установки",
+        "rootTypeLabel": "Рут",
+        "nonRootTypeLabel": "Без рут",
+        "patchedDateLabel": "Дата применения патча",
+        "patchedDateHint": "{date} в {time}",
+        "appliedPatchesLabel": "Применённые патчи",
+        "appliedPatchesHint": "Патчей применено: {quantity}"
+    },
+    "contributorsView": {
+        "widgetTitle": "Внесли вклад",
+        "patcherContributors": "Внесли вклад в патчер",
+        "patchesContributors": "Внесли вклад в патчи",
+        "integrationsContributors": "Внесли вклад в интеграции",
+        "cliContributors": "Внесли вклад в CLI",
+        "managerContributors": "Внесли вклад в менеджер"
+    }
+}
